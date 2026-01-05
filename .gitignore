@@ -24,4 +24,7 @@ dist-ssr
 *.sw?
 
 # Reference Images
-"라디오 이미지 참고"
+라디오 이미지 참고/
+
+# Screenshots
+screenshot/
